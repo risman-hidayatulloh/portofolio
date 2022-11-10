@@ -257,7 +257,7 @@ section {
   background-color: var(--color-grey-5);
 }
 .about-container .left-about {
-  padding-right: 5rem;
+  padding-right: 4rem;
 }
 .about-container .left-about p {
   line-height: 2rem;
@@ -655,7 +655,7 @@ section {
   overflow: hidden;
 }
 .main-btn .btn-text {
-  padding: 0 2rem;
+  padding: 0 1rem;
 }
 .main-btn .btn-icon {
   background-color: var(--color-secondary);
